@@ -132,9 +132,7 @@ a:focus {
         padding: 20px;
     }
     
-    .nav-bar .navbar-brand {
-        display: none;
-    }
+    
     
     .nav-bar a.nav-link {
         padding: 8px 15px;
@@ -156,9 +154,7 @@ a:focus {
         box-shadow: none;
     }
     
-    .nav-bar .btn {
-        display: none;
-    }
+    
 }
 
 
